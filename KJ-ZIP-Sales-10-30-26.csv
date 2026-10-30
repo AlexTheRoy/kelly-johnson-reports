@@ -1,0 +1,130 @@
+zip,county,city,leads,leads_2026-06,leads_2026-07,leads_2026-08,leads_2026-09,leads_2026-10,homeowners,in_status_file,quoted,sold,items_sold,premium_sold,inbound_callers,inbound_calls
+87031,Valencia,Los Lunas,15,2,4,5,3,1,9,13,3,2,3,2321,1,1
+87110,Bernalillo,Albuquerque,11,0,2,5,4,0,4,11,3,2,3,2224,1,1
+87102,Bernalillo,Albuquerque,9,2,2,2,3,0,0,9,3,2,1,940,2,3
+87410,San Juan,Aztec,9,2,2,4,1,0,3,9,2,2,3,1309,1,3
+87507,Santa Fe,Santa Fe,7,2,0,3,2,0,1,7,2,2,2,1988,2,2
+88337,Otero,La Luz,4,0,0,1,2,1,3,3,2,2,1,187,1,4
+87121,Bernalillo,Albuquerque,19,3,5,6,3,2,10,16,5,1,1,1027,0,0
+87124,Sandoval,Rio Rancho,15,3,1,3,8,0,7,15,5,1,0,0,1,4
+87120,Bernalillo,Albuquerque,21,0,3,6,12,0,10,18,4,1,0,0,2,2
+88001,Doña Ana,Las Cruces,14,1,2,8,2,1,3,11,3,1,1,176,0,0
+88101,Curry,Clovis,11,0,5,4,2,0,4,10,3,1,1,281,3,3
+88030,Luna,Deming,10,1,5,3,1,0,4,10,3,1,1,174,0,0
+88310,Otero,Alamogordo,7,0,3,2,1,1,2,6,3,1,1,503,0,0
+88260,Lea,Lovington,5,0,3,2,0,0,1,5,1,1,2,516,0,0
+88231,Lea,Eunice,3,0,1,1,1,0,1,3,1,1,1,720,1,2
+87501,Santa Fe,Santa Fe,1,0,1,0,0,0,0,1,1,1,1,593,0,0
+87523,Rio Arriba,Cordova,1,0,1,0,0,0,1,1,1,1,1,752,0,0
+87901,Sierra,Truth Or Consequences,1,1,0,0,0,0,0,1,1,1,0,0,0,0
+88345,Lincoln,Ruidoso,1,0,1,0,0,0,0,1,1,1,1,296,1,2
+87144,Sandoval,Rio Rancho,15,1,4,6,4,0,4,14,3,0,0,0,2,2
+87114,Bernalillo,Albuquerque,13,1,5,3,4,0,5,13,3,0,0,0,2,2
+87505,Santa Fe,Santa Fe,12,4,4,4,0,0,4,12,3,0,0,0,2,3
+88005,Doña Ana,Las Cruces,12,2,1,7,2,0,3,12,3,0,0,0,3,3
+87109,Bernalillo,Albuquerque,22,2,3,6,11,0,8,20,2,0,0,0,3,4
+87123,Bernalillo,Albuquerque,19,1,3,5,7,3,6,15,2,0,0,0,2,2
+87002,Valencia,Belen,7,0,3,2,0,2,0,5,2,0,0,0,0,0
+88203,Chaves,Roswell,7,0,1,2,4,0,5,6,2,0,0,0,0,0
+88061,Grant,Silver City,6,0,3,2,1,0,4,6,2,0,0,0,0,0
+87301,Mckinley,Gallup,4,1,1,2,0,0,3,4,2,0,0,0,0,0
+87112,Bernalillo,Albuquerque,13,0,2,8,3,0,3,13,1,0,0,0,0,0
+87107,Bernalillo,Albuquerque,12,1,1,4,4,2,4,10,1,0,0,0,3,3
+87108,Bernalillo,Albuquerque,11,0,5,5,1,0,0,11,1,0,0,0,1,1
+87701,San Miguel,Las Vegas,11,1,5,4,1,0,7,9,1,0,0,0,0,0
+88210,Eddy,Artesia,7,0,1,5,1,0,5,7,1,0,0,0,1,1
+87532,Rio Arriba,Espanola,5,0,3,0,2,0,1,5,1,0,0,0,1,2
+87111,Bernalillo,Albuquerque,4,0,1,3,0,0,1,4,1,0,0,0,0,0
+87327,Mckinley,Zuni,4,0,1,1,2,0,2,4,1,0,0,0,0,0
+88240,Lea,Hobbs,4,1,2,1,0,0,0,4,1,0,0,0,0,0
+87420,San Juan,Shiprock,3,1,0,0,2,0,2,3,1,0,0,0,0,0
+88021,Doña Ana,Anthony,3,0,1,1,1,0,2,2,1,0,0,0,0,0
+88043,Grant,Hurley,3,1,0,1,0,1,3,2,1,0,0,0,0,0
+88047,Doña Ana,Mesilla Park,3,1,0,1,1,0,1,3,1,0,0,0,1,1
+88081,Doña Ana,Chaparral,3,1,0,1,1,0,2,3,1,0,0,0,1,1
+88119,De Baca,Fort Sumner,3,2,1,0,0,0,2,3,1,0,0,0,0,0
+87041,Sandoval,Pena Blanca,2,0,0,1,1,0,0,1,1,0,0,0,1,1
+87052,Sandoval,Santo Domingo Pueblo,2,0,0,0,2,0,2,1,1,0,0,0,0,0
+87106,Bernalillo,Albuquerque,2,0,1,1,0,0,0,2,1,0,0,0,0,0
+87305,Mckinley,Gallup,2,1,1,0,0,0,2,2,1,0,0,0,0,0
+87313,Mckinley,Crownpoint,2,0,0,1,1,0,2,2,1,0,0,0,1,1
+87413,San Juan,Bloomfield,2,0,0,1,1,0,2,2,1,0,0,0,1,1
+87417,San Juan,Kirtland,2,0,1,0,1,0,2,2,1,0,0,0,1,1
+87522,Rio Arriba,Chimayo,2,1,0,1,0,0,2,2,1,0,0,0,0,0
+87549,Taos,Ojo Caliente,2,1,0,1,0,0,1,2,1,0,0,0,0,0
+87557,Taos,Ranchos De Taos,2,1,0,0,1,0,0,2,1,0,0,0,0,0
+87006,Valencia,Bosque,1,0,0,0,1,0,0,1,1,0,0,0,1,1
+87007,Cibola,Casa Blanca,1,0,1,0,0,0,1,1,1,0,0,0,0,0
+87024,Sandoval,Jemez Pueblo,1,1,0,0,0,0,1,1,1,0,0,0,0,0
+87034,Valencia,Pueblo Of Acoma,1,0,1,0,0,0,0,1,1,0,0,0,0,0
+87060,Valencia,Tome,1,0,1,0,0,0,0,1,1,0,0,0,0,0
+87535,Santa Fe,Glorieta,1,0,1,0,0,0,1,1,1,0,0,0,0,0
+87713,Mora,Chacon,1,0,0,0,1,0,1,1,1,0,0,0,0,0
+88044,Doña Ana,La Mesa,1,0,1,0,0,0,1,1,1,0,0,0,0,0
+88048,Doña Ana,Mesquite,1,0,1,0,0,0,1,1,1,0,0,0,0,0
+87105,Bernalillo,Albuquerque,10,1,3,6,0,0,3,10,0,0,0,0,1,2
+88220,Eddy,Carlsbad,8,1,1,2,4,0,4,6,0,0,0,0,0,0
+88007,Doña Ana,Las Cruces,6,0,1,1,4,0,4,5,0,0,0,0,0,0
+87113,Bernalillo,Albuquerque,5,0,0,2,3,0,3,5,0,0,0,0,0,0
+87401,San Juan,Farmington,4,0,0,0,3,1,1,3,0,0,0,0,0,0
+88012,Doña Ana,Las Cruces,4,1,1,0,2,0,1,4,0,0,0,0,0,0
+88023,Grant,Bayard,4,0,2,1,1,0,2,3,0,0,0,0,0,0
+88201,Chaves,Roswell,4,0,2,2,0,0,2,4,0,0,0,0,0,0
+88352,Otero,Tularosa,4,0,1,1,0,2,1,2,0,0,0,0,0,0
+87104,Bernalillo,Albuquerque,3,1,1,1,0,0,2,3,0,0,0,0,1,1
+87316,Mckinley,Fort Wingate,3,0,1,1,1,0,3,1,0,0,0,0,0,0
+87529,Taos,El Prado,3,0,0,1,2,0,0,3,0,0,0,0,0,0
+88011,Doña Ana,Las Cruces,3,0,2,0,0,1,1,2,0,0,0,0,0,0
+87004,Sandoval,Bernalillo,2,0,0,2,0,0,1,2,0,0,0,0,0,0
+87047,Bernalillo,Sandia Park,2,0,1,1,0,0,1,2,0,0,0,0,1,1
+87068,Valencia,Bosque Farms,2,0,1,1,0,0,1,2,0,0,0,0,0,0
+87506,Santa Fe,Santa Fe,2,1,0,1,0,0,1,2,0,0,0,0,0,0
+87508,Santa Fe,Santa Fe,2,0,0,2,0,0,1,2,0,0,0,0,0,0
+87801,Socorro,Socorro,2,0,0,0,2,0,1,2,0,0,0,0,0,0
+88026,Grant,Santa Clara,2,1,0,1,0,0,1,2,0,0,0,0,0,0
+88130,Roosevelt,Portales,2,0,1,0,1,0,0,1,0,0,0,0,0,0
+87016,Torrance,Albuquerque,1,0,0,1,0,0,0,1,0,0,0,0,0,0
+87018,Sandoval,Counselor,1,0,1,0,0,0,1,1,0,0,0,0,1,1
+87020,Cibola,Grants,1,0,0,1,0,0,0,1,0,0,0,0,0,0
+87021,Cibola,Milan,1,0,0,0,1,0,1,1,0,0,0,0,0,0
+87026,Cibola,Laguna,1,1,0,0,0,0,1,1,0,0,0,0,0,0
+87028,Socorro,La Joya,1,0,1,0,0,0,0,1,0,0,0,0,0,0
+87035,Torrance,Moriarty,1,0,1,0,0,0,0,1,0,0,0,0,0,0
+87036,Torrance,Mountainair,1,0,0,1,0,0,0,1,0,0,0,0,0,0
+87048,Sandoval,Corrales,1,1,0,0,0,0,0,1,0,0,0,0,1,1
+87059,Bernalillo,Tijeras,1,0,0,0,1,0,0,1,0,0,0,0,0,0
+87122,Bernalillo,Albuquerque,1,0,0,0,0,1,1,0,0,0,0,0,0,0
+87154,Bernalillo,Albuquerque,1,0,0,0,0,1,1,0,0,0,0,0,0,0
+87198,Bernalillo,"Albuquerqu, 87121",1,0,0,1,0,0,0,1,0,0,0,0,1,1
+87310,Mckinley,Brimhall,1,0,0,1,0,0,1,1,0,0,0,0,0,0
+87311,Mckinley,Church Rock,1,0,0,0,1,0,0,1,0,0,0,0,0,0
+87320,Mckinley,Mexican Springs,1,0,0,0,1,0,0,1,0,0,0,0,0,0
+87321,Mckinley,Ramah,1,0,1,0,0,0,0,1,0,0,0,0,0,0
+87328,Mckinley,Navajo,1,0,0,1,0,0,1,1,0,0,0,0,0,0
+87402,San Juan,Farmington,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+87415,San Juan,Flora Vista,1,0,0,0,1,0,0,1,0,0,0,0,0,0
+87513,Taos,Arroyo Hondo,1,0,0,0,1,0,0,1,0,0,0,0,0,0
+87528,Rio Arriba,Dulce,1,0,1,0,0,0,1,1,0,0,0,0,0,0
+87530,Rio Arriba,El Rito,1,0,1,0,0,0,1,1,0,0,0,0,0,0
+87537,Rio Arriba,Hernandez,1,0,0,1,0,0,1,1,0,0,0,0,0,0
+87552,San Miguel,Pecos,1,1,0,0,0,0,1,1,0,0,0,0,0,0
+87556,Taos,Questa,1,0,0,0,1,0,1,1,0,0,0,0,1,1
+87565,San Miguel,San Jose,1,0,0,1,0,0,0,1,0,0,0,0,0,0
+87566,Rio Arriba,Ohkay Owingeh,1,0,1,0,0,0,0,1,0,0,0,0,0,0
+87571,Taos,Taos,1,0,0,1,0,0,1,1,0,0,0,0,0,0
+87715,Mora,Cleveland,1,0,1,0,0,0,0,1,0,0,0,0,0,0
+87723,Mora,Holman,1,0,1,0,0,0,1,1,0,0,0,0,0,0
+87740,Colfax,Raton,1,0,0,1,0,0,0,1,0,0,0,0,0,0
+87743,Harding,Roy,1,0,1,0,0,0,1,1,0,0,0,0,0,0
+87825,Socorro,Magdalena,1,0,0,1,0,0,1,1,0,0,0,0,0,0
+87828,Socorro,Polvadera,1,0,0,0,1,0,0,1,0,0,0,0,0,0
+87931,Sierra,Caballo,1,0,0,1,0,0,1,1,0,0,0,0,1,3
+88039,Catron,Glenwood,1,0,0,0,1,0,1,1,0,0,0,0,0,0
+88041,Grant,Hanover,1,1,0,0,0,0,1,1,0,0,0,0,0,0
+88046,Doña Ana,Mesilla,1,0,0,1,0,0,0,1,0,0,0,0,0,0
+88062,Grant,Silver City,1,0,0,1,0,0,0,1,0,0,0,0,0,0
+88202,Chaves,Roswell,1,0,0,0,1,0,1,1,0,0,0,0,0,0
+88242,Lea,Hobbs,1,0,0,0,0,1,1,0,0,0,0,0,0,0
+88256,Eddy,Loving,1,0,0,1,0,0,0,1,0,0,0,0,0,0
+88346,Lincoln,Ruidoso Downs,1,0,0,0,1,0,0,1,0,0,0,0,0,0
+88401,Quay,Tucumcari,1,1,0,0,0,0,1,1,0,0,0,0,0,0
